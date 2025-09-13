@@ -11,14 +11,121 @@
       "createdAt": "2025-09-13T06:00:10.541Z"
     },
     {
-      "id": "1757741492119",
+      "id": "1757757114242",
       "type": "user-tip",
-      "text": "<p style=\"text-align: left;\">아직도 너의 소리가 들려&nbsp;<span><span data-soft-highlight=\"true\" style=\"background-repeat: no-repeat; background-size: 100% 40%; background-position: 0px 85%; background-image: linear-gradient(rgba(184, 148, 232, 0.4), rgba(184, 148, 232, 0.4));\">아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;</span></span>아직도 너의<span data-underline-styled=\"true\" data-underline-style=\"dashed\" data-underline-color=\"#f5b041\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px dashed rgba(245, 176, 65, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\"> 소리가 들려&nbsp;아직도 너의 소리가</span> 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;</p>",
+      "text": "<p style=\"text-align: left;\">아직도 너의 소리가 들려&nbsp;<span><span data-soft-highlight=\"true\" style=\"background-repeat: no-repeat; background-size: 100% 30%; background-position: 0px 85%; background-image: linear-gradient(rgba(184, 148, 232, 0.4), rgba(184, 148, 232, 0.4));\">아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;</span></span>아직도 너의<span><span data-underline-styled=\"true\" data-underline-style=\"text-decoration: underline 3px dashed rgba(245, 176, 65, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\" data-underline-color=\"#94a3b8\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px rgba(148, 163, 184, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\"> </span><span data-underline-styled=\"true\" data-underline-style=\"dashed\" data-underline-color=\"#f78ca4\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px dashed rgba(247, 140, 164, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\">소리가 들려&nbsp;아직도 너의 소리가</span></span><span data-underline-styled=\"true\" data-underline-style=\"dashed\" data-underline-color=\"#f78ca4\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px dashed rgba(247, 140, 164, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\"> </span>들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;</p>",
+      "textJson": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "textAlign": "left"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "아직도 너의 소리가 들려 "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  },
+                  {
+                    "type": "softHighlight",
+                    "attrs": {
+                      "color": "#b894e8",
+                      "opacity": 0.4,
+                      "height": 30
+                    }
+                  }
+                ],
+                "text": "아직도 너의 소리가 들려 아직도 너의 소리가 들려 아직도 너의 소리가 들려 "
+              },
+              {
+                "type": "text",
+                "text": "아직도 너의"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  },
+                  {
+                    "type": "underlineStyled",
+                    "attrs": {
+                      "style": "text-decoration: underline 3px dashed rgba(245, 176, 65, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;",
+                      "thickness": "3px",
+                      "color": "#94a3b8"
+                    }
+                  }
+                ],
+                "text": " "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  },
+                  {
+                    "type": "underlineStyled",
+                    "attrs": {
+                      "style": "dashed",
+                      "thickness": "3px",
+                      "color": "#f78ca4"
+                    }
+                  }
+                ],
+                "text": "소리가 들려 아직도 너의 소리가"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "underlineStyled",
+                    "attrs": {
+                      "style": "dashed",
+                      "thickness": "3px",
+                      "color": "#f78ca4"
+                    }
+                  }
+                ],
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "들려 아직도 너의 소리가 들려 아직도 너의 소리가 들려 "
+              }
+            ]
+          }
+        ]
+      },
       "priority": 1,
       "link": null,
       "content": "<p></p>",
+      "contentJson": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph"
+          }
+        ]
+      },
       "mode": "scroll",
-      "createdAt": "2025-09-13T05:31:32.119Z"
+      "createdAt": "2025-09-13T09:51:54.242Z"
     },
     {
       "id": "1757742408805",
@@ -166,14 +273,121 @@
         "createdAt": "2025-09-13T06:00:10.541Z"
       },
       {
-        "id": "1757741492119",
+        "id": "1757757114242",
         "type": "user-tip",
-        "text": "<p style=\"text-align: left;\">아직도 너의 소리가 들려&nbsp;<span><span data-soft-highlight=\"true\" style=\"background-repeat: no-repeat; background-size: 100% 40%; background-position: 0px 85%; background-image: linear-gradient(rgba(184, 148, 232, 0.4), rgba(184, 148, 232, 0.4));\">아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;</span></span>아직도 너의<span data-underline-styled=\"true\" data-underline-style=\"dashed\" data-underline-color=\"#f5b041\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px dashed rgba(245, 176, 65, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\"> 소리가 들려&nbsp;아직도 너의 소리가</span> 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;</p>",
+        "text": "<p style=\"text-align: left;\">아직도 너의 소리가 들려&nbsp;<span><span data-soft-highlight=\"true\" style=\"background-repeat: no-repeat; background-size: 100% 30%; background-position: 0px 85%; background-image: linear-gradient(rgba(184, 148, 232, 0.4), rgba(184, 148, 232, 0.4));\">아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;</span></span>아직도 너의<span><span data-underline-styled=\"true\" data-underline-style=\"text-decoration: underline 3px dashed rgba(245, 176, 65, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\" data-underline-color=\"#94a3b8\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px rgba(148, 163, 184, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\"> </span><span data-underline-styled=\"true\" data-underline-style=\"dashed\" data-underline-color=\"#f78ca4\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px dashed rgba(247, 140, 164, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\">소리가 들려&nbsp;아직도 너의 소리가</span></span><span data-underline-styled=\"true\" data-underline-style=\"dashed\" data-underline-color=\"#f78ca4\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px dashed rgba(247, 140, 164, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\"> </span>들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;</p>",
+        "textJson": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "아직도 너의 소리가 들려 "
+                },
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "color": ""
+                      }
+                    },
+                    {
+                      "type": "softHighlight",
+                      "attrs": {
+                        "color": "#b894e8",
+                        "opacity": 0.4,
+                        "height": 30
+                      }
+                    }
+                  ],
+                  "text": "아직도 너의 소리가 들려 아직도 너의 소리가 들려 아직도 너의 소리가 들려 "
+                },
+                {
+                  "type": "text",
+                  "text": "아직도 너의"
+                },
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "color": ""
+                      }
+                    },
+                    {
+                      "type": "underlineStyled",
+                      "attrs": {
+                        "style": "text-decoration: underline 3px dashed rgba(245, 176, 65, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;",
+                        "thickness": "3px",
+                        "color": "#94a3b8"
+                      }
+                    }
+                  ],
+                  "text": " "
+                },
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "color": ""
+                      }
+                    },
+                    {
+                      "type": "underlineStyled",
+                      "attrs": {
+                        "style": "dashed",
+                        "thickness": "3px",
+                        "color": "#f78ca4"
+                      }
+                    }
+                  ],
+                  "text": "소리가 들려 아직도 너의 소리가"
+                },
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "underlineStyled",
+                      "attrs": {
+                        "style": "dashed",
+                        "thickness": "3px",
+                        "color": "#f78ca4"
+                      }
+                    }
+                  ],
+                  "text": " "
+                },
+                {
+                  "type": "text",
+                  "text": "들려 아직도 너의 소리가 들려 아직도 너의 소리가 들려 "
+                }
+              ]
+            }
+          ]
+        },
         "priority": 1,
         "link": null,
         "content": "<p></p>",
+        "contentJson": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph"
+            }
+          ]
+        },
         "mode": "scroll",
-        "createdAt": "2025-09-13T05:31:32.119Z"
+        "createdAt": "2025-09-13T09:51:54.242Z"
       },
       {
         "id": "1757742408805",
@@ -366,10 +580,10 @@
   ],
   "settings": {
     "speed": 20,
-    "displayMode": "pulse",
+    "displayMode": "scroll",
     "exposureSec": 20
   },
-  "lastUpdated": "2025-09-13T09:50:08.015Z",
+  "lastUpdated": "2025-09-13T09:51:59.577Z",
   "version": "1.1.0",
   "description": "BOMS 앱 전광판 메시지 데이터"
 }
