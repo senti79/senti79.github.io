@@ -9,20 +9,21 @@
       "createdAt": "2025-01-27T10:00:00Z"
     },
     {
+      "id": "1757727370953",
+      "type": "user-tip",
+      "text": "<p style=\"text-align: left;\">테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;</p>",
+      "priority": 1,
+      "link": null,
+      "content": "<p></p>",
+      "createdAt": "2025-09-13T01:36:10.953Z"
+    },
+    {
       "id": "2",
       "type": "dev-behind",
       "text": "🔧 개발비하인드: 전광판은 GitHub Pages로 실시간 업데이트됩니다",
       "priority": 2,
       "link": "https://senti79.github.io/dev-behind/ticker-system.html",
       "createdAt": "2025-01-27T11:00:00Z"
-    },
-    {
-      "id": "3",
-      "type": "challenge",
-      "text": "🏆 도전과제: 7일 연속 메모 작성하면 특별 기능이 잠금해제됩니다!",
-      "priority": 3,
-      "link": "https://senti79.github.io/challenges/7-day-streak.html",
-      "createdAt": "2025-01-27T12:00:00Z"
     },
     {
       "id": "4",
@@ -33,6 +34,14 @@
       "createdAt": "2025-01-27T13:00:00Z"
     },
     {
+      "id": "3",
+      "type": "challenge",
+      "text": "🏆 도전과제: 7일 연속 메모 작성하면 특별 기능이 잠금해제됩니다!",
+      "priority": 3,
+      "link": "https://senti79.github.io/challenges/7-day-streak.html",
+      "createdAt": "2025-01-27T12:00:00Z"
+    },
+    {
       "id": "5",
       "type": "promotion",
       "text": "🎁 한 달 연속 작성 시 모든 프리미엄 기능이 30일간 무료!",
@@ -41,7 +50,119 @@
       "createdAt": "2025-01-27T14:00:00Z"
     }
   ],
-  "lastUpdated": "2025-01-27T14:00:00Z",
-  "version": "1.0.0",
+  "i18n": {
+    "ko": [
+      {
+        "id": "1",
+        "type": "user-tip",
+        "text": "💡 팁: Ctrl + B로 볼드, Ctrl + U로 밑줄을 빠르게 적용할 수 있어요",
+        "priority": 1,
+        "link": "https://senti79.github.io/features/keyboard-shortcuts.html",
+        "createdAt": "2025-01-27T10:00:00Z"
+      },
+      {
+        "id": "1757727370953",
+        "type": "user-tip",
+        "text": "<p style=\"text-align: left;\">테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;테스트 테스트&nbsp;</p>",
+        "priority": 1,
+        "link": null,
+        "content": "<p></p>",
+        "createdAt": "2025-09-13T01:36:10.953Z"
+      },
+      {
+        "id": "2",
+        "type": "dev-behind",
+        "text": "🔧 개발비하인드: 전광판은 GitHub Pages로 실시간 업데이트됩니다",
+        "priority": 2,
+        "link": "https://senti79.github.io/dev-behind/ticker-system.html",
+        "createdAt": "2025-01-27T11:00:00Z"
+      },
+      {
+        "id": "4",
+        "type": "fun-fact",
+        "text": "🎨 재미있는 사실: 이 에디터는 TipTap 3.x로 만들어졌어요",
+        "priority": 2,
+        "link": "https://senti79.github.io/fun-facts/tiptap-editor.html",
+        "createdAt": "2025-01-27T13:00:00Z"
+      },
+      {
+        "id": "3",
+        "type": "challenge",
+        "text": "🏆 도전과제: 7일 연속 메모 작성하면 특별 기능이 잠금해제됩니다!",
+        "priority": 3,
+        "link": "https://senti79.github.io/challenges/7-day-streak.html",
+        "createdAt": "2025-01-27T12:00:00Z"
+      },
+      {
+        "id": "5",
+        "type": "promotion",
+        "text": "🎁 한 달 연속 작성 시 모든 프리미엄 기능이 30일간 무료!",
+        "priority": 4,
+        "link": "https://senti79.github.io/promotions/monthly-challenge.html",
+        "createdAt": "2025-01-27T14:00:00Z"
+      }
+    ],
+    "ja": [],
+    "en": [],
+    "es": []
+  },
+  "categories": [
+    {
+      "id": "user-tip",
+      "icon": "💡",
+      "names": {
+        "ko": "사용자 팁",
+        "ja": "ユーザーヒント",
+        "en": "User Tip",
+        "es": "Consejo"
+      }
+    },
+    {
+      "id": "dev-behind",
+      "icon": "🔧",
+      "names": {
+        "ko": "개발비하인드",
+        "ja": "開発裏話",
+        "en": "Dev Behind",
+        "es": "Detrás"
+      }
+    },
+    {
+      "id": "challenge",
+      "icon": "🏆",
+      "names": {
+        "ko": "도전과제",
+        "ja": "チャレンジ",
+        "en": "Challenge",
+        "es": "Desafío"
+      }
+    },
+    {
+      "id": "fun-fact",
+      "icon": "🎨",
+      "names": {
+        "ko": "재미있는 사실",
+        "ja": "豆知識",
+        "en": "Fun Fact",
+        "es": "Dato"
+      }
+    },
+    {
+      "id": "promotion",
+      "icon": "🎁",
+      "names": {
+        "ko": "프로모션",
+        "ja": "プロモ",
+        "en": "Promotion",
+        "es": "Promoción"
+      }
+    }
+  ],
+  "settings": {
+    "speed": 20,
+    "displayMode": "scroll"
+  },
+  "lastUpdated": "2025-09-13T01:35:57.784Z",
+  "version": "1.1.0",
   "description": "BOMS 앱 전광판 메시지 데이터"
 }
