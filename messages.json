@@ -1,135 +1,107 @@
 {
   "messages": [
     {
-      "id": "1757741117225",
+      "id": "1757741470909",
       "type": "user-tip",
-      "text": "<p style=\"text-align: left;\">테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;</p>",
+      "text": "<p style=\"text-align: left;\">테스<span data-underline-styled=\"true\" data-underline-style=\"wavy\" data-underline-color=\"#f78ca4\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px wavy rgba(247, 140, 164, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\">트를 해보자 테스트를 해보자 테스트&nbsp;</span></p>",
+      "priority": 1,
+      "link": null,
+      "content": "<p></p>",
+      "mode": "pulse",
+      "createdAt": "2025-09-13T05:31:10.909Z"
+    },
+    {
+      "id": "1757741492119",
+      "type": "user-tip",
+      "text": "<p style=\"text-align: left;\">아직도 너의 소리가 들려&nbsp;<span><span data-soft-highlight=\"true\" style=\"background-repeat: no-repeat; background-size: 100% 40%; background-position: 0px 85%; background-image: linear-gradient(rgba(184, 148, 232, 0.4), rgba(184, 148, 232, 0.4));\">아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;</span></span>아직도 너의<span data-underline-styled=\"true\" data-underline-style=\"dashed\" data-underline-color=\"#f5b041\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px dashed rgba(245, 176, 65, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\"> 소리가 들려&nbsp;아직도 너의 소리가</span> 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;</p>",
       "priority": 1,
       "link": null,
       "content": "<p></p>",
       "mode": "scroll",
-      "createdAt": "2025-09-13T05:25:17.225Z"
+      "createdAt": "2025-09-13T05:31:32.119Z"
     },
     {
-      "id": "1757740510714",
-      "type": "user-tip",
-      "text": "<p style=\"text-align: left;\">아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;</p>",
-      "priority": 1,
-      "link": null,
-      "content": "<p></p>",
-      "mode": "scroll",
-      "createdAt": "2025-09-13T05:15:10.714Z"
-    },
-    {
-      "id": "1757740484459",
-      "type": "user-tip",
-      "text": "<p style=\"text-align: left;\">💡 팁: Ctrl + B로 볼드, Ctrl + U로 밑줄을 빠르게 적용할 수 있어요</p>",
-      "priority": 2,
-      "link": "https://senti79.github.io/features/keyboard-shortcuts.html",
-      "content": "<p></p>",
-      "mode": "scroll",
-      "createdAt": "2025-09-13T05:14:44.459Z"
-    },
-    {
-      "id": "1757738528207",
-      "type": "dev-behind",
-      "text": "<p style=\"text-align: left;\">🔧 개발비하인드: 전광판은 GitHub Pages로 실시간 업데이트됩니다</p>",
-      "priority": 2,
-      "link": "https://senti79.github.io/dev-behind/ticker-system.html",
-      "content": "<p></p>",
-      "mode": "scroll",
-      "createdAt": "2025-09-13T04:42:08.207Z"
-    },
-    {
-      "id": "4",
-      "type": "fun-fact",
-      "text": "🎨 재미있는 사실: 이 에디터는 TipTap 3.x로 만들어졌어요",
-      "priority": 2,
-      "link": "https://senti79.github.io/fun-facts/tiptap-editor.html",
-      "createdAt": "2025-01-27T13:00:00Z"
-    },
-    {
-      "id": "3",
-      "type": "challenge",
-      "text": "🏆 도전과제: 7일 연속 메모 작성하면 특별 기능이 잠금해제됩니다!",
-      "priority": 3,
-      "link": "https://senti79.github.io/challenges/7-day-streak.html",
-      "createdAt": "2025-01-27T12:00:00Z"
-    },
-    {
-      "id": "5",
+      "id": "1757741449217",
       "type": "promotion",
-      "text": "🎁 한 달 연속 작성 시 모든 프리미엄 기능이 30일간 무료!",
+      "text": "<p style=\"text-align: left;\"></p>",
+      "priority": 1,
+      "link": null,
+      "content": "<p></p>",
+      "mode": "pulse",
+      "createdAt": "2025-09-13T05:30:49.217Z"
+    },
+    {
+      "id": "1757741492855",
+      "type": "user-tip",
+      "text": "<p style=\"text-align: left;\"></p>",
+      "priority": 1,
+      "link": null,
+      "content": "<p></p>",
+      "mode": "scroll",
+      "createdAt": "2025-09-13T05:31:32.855Z"
+    },
+    {
+      "id": "1757741448072",
+      "type": "promotion",
+      "text": "<p style=\"text-align: left;\"><span><strong><span data-underline-styled=\"true\" data-underline-style=\"wavy\" data-underline-color=\"#a370f0\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px wavy rgba(163, 112, 240, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\">이건 정말 테스트&nbsp;</span></strong></span></p>",
       "priority": 4,
       "link": "https://senti79.github.io/promotions/monthly-challenge.html",
-      "createdAt": "2025-01-27T14:00:00Z"
+      "content": "<p></p>",
+      "mode": "pulse",
+      "createdAt": "2025-09-13T05:30:48.072Z"
     }
   ],
   "i18n": {
     "ko": [
       {
-        "id": "1757741117225",
+        "id": "1757741470909",
         "type": "user-tip",
-        "text": "<p style=\"text-align: left;\">테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;</p>",
+        "text": "<p style=\"text-align: left;\">테스<span data-underline-styled=\"true\" data-underline-style=\"wavy\" data-underline-color=\"#f78ca4\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px wavy rgba(247, 140, 164, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\">트를 해보자 테스트를 해보자 테스트&nbsp;</span></p>",
+        "priority": 1,
+        "link": null,
+        "content": "<p></p>",
+        "mode": "pulse",
+        "createdAt": "2025-09-13T05:31:10.909Z"
+      },
+      {
+        "id": "1757741492119",
+        "type": "user-tip",
+        "text": "<p style=\"text-align: left;\">아직도 너의 소리가 들려&nbsp;<span><span data-soft-highlight=\"true\" style=\"background-repeat: no-repeat; background-size: 100% 40%; background-position: 0px 85%; background-image: linear-gradient(rgba(184, 148, 232, 0.4), rgba(184, 148, 232, 0.4));\">아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;</span></span>아직도 너의<span data-underline-styled=\"true\" data-underline-style=\"dashed\" data-underline-color=\"#f5b041\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px dashed rgba(245, 176, 65, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\"> 소리가 들려&nbsp;아직도 너의 소리가</span> 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;</p>",
         "priority": 1,
         "link": null,
         "content": "<p></p>",
         "mode": "scroll",
-        "createdAt": "2025-09-13T05:25:17.225Z"
+        "createdAt": "2025-09-13T05:31:32.119Z"
       },
       {
-        "id": "1757740510714",
-        "type": "user-tip",
-        "text": "<p style=\"text-align: left;\">아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;</p>",
-        "priority": 1,
-        "link": null,
-        "content": "<p></p>",
-        "mode": "scroll",
-        "createdAt": "2025-09-13T05:15:10.714Z"
-      },
-      {
-        "id": "1757740484459",
-        "type": "user-tip",
-        "text": "<p style=\"text-align: left;\">💡 팁: Ctrl + B로 볼드, Ctrl + U로 밑줄을 빠르게 적용할 수 있어요</p>",
-        "priority": 2,
-        "link": "https://senti79.github.io/features/keyboard-shortcuts.html",
-        "content": "<p></p>",
-        "mode": "scroll",
-        "createdAt": "2025-09-13T05:14:44.459Z"
-      },
-      {
-        "id": "1757738528207",
-        "type": "dev-behind",
-        "text": "<p style=\"text-align: left;\">🔧 개발비하인드: 전광판은 GitHub Pages로 실시간 업데이트됩니다</p>",
-        "priority": 2,
-        "link": "https://senti79.github.io/dev-behind/ticker-system.html",
-        "content": "<p></p>",
-        "mode": "scroll",
-        "createdAt": "2025-09-13T04:42:08.207Z"
-      },
-      {
-        "id": "4",
-        "type": "fun-fact",
-        "text": "🎨 재미있는 사실: 이 에디터는 TipTap 3.x로 만들어졌어요",
-        "priority": 2,
-        "link": "https://senti79.github.io/fun-facts/tiptap-editor.html",
-        "createdAt": "2025-01-27T13:00:00Z"
-      },
-      {
-        "id": "3",
-        "type": "challenge",
-        "text": "🏆 도전과제: 7일 연속 메모 작성하면 특별 기능이 잠금해제됩니다!",
-        "priority": 3,
-        "link": "https://senti79.github.io/challenges/7-day-streak.html",
-        "createdAt": "2025-01-27T12:00:00Z"
-      },
-      {
-        "id": "5",
+        "id": "1757741449217",
         "type": "promotion",
-        "text": "🎁 한 달 연속 작성 시 모든 프리미엄 기능이 30일간 무료!",
+        "text": "<p style=\"text-align: left;\"></p>",
+        "priority": 1,
+        "link": null,
+        "content": "<p></p>",
+        "mode": "pulse",
+        "createdAt": "2025-09-13T05:30:49.217Z"
+      },
+      {
+        "id": "1757741492855",
+        "type": "user-tip",
+        "text": "<p style=\"text-align: left;\"></p>",
+        "priority": 1,
+        "link": null,
+        "content": "<p></p>",
+        "mode": "scroll",
+        "createdAt": "2025-09-13T05:31:32.855Z"
+      },
+      {
+        "id": "1757741448072",
+        "type": "promotion",
+        "text": "<p style=\"text-align: left;\"><span><strong><span data-underline-styled=\"true\" data-underline-style=\"wavy\" data-underline-color=\"#a370f0\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px wavy rgba(163, 112, 240, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\">이건 정말 테스트&nbsp;</span></strong></span></p>",
         "priority": 4,
         "link": "https://senti79.github.io/promotions/monthly-challenge.html",
-        "createdAt": "2025-01-27T14:00:00Z"
+        "content": "<p></p>",
+        "mode": "pulse",
+        "createdAt": "2025-09-13T05:30:48.072Z"
       }
     ],
     "ja": [],
@@ -192,7 +164,7 @@
     "speed": 20,
     "displayMode": "scroll"
   },
-  "lastUpdated": "2025-09-13T05:27:59.726Z",
+  "lastUpdated": "2025-09-13T05:31:37.864Z",
   "version": "1.1.0",
   "description": "BOMS 앱 전광판 메시지 데이터"
 }
