@@ -1,14 +1,14 @@
 {
   "messages": [
     {
-      "id": "1757742400690",
+      "id": "1757743210541",
       "type": "user-tip",
-      "text": "<p style=\"text-align: left;\">테스<span><span data-underline-styled=\"true\" data-underline-style=\"text-decoration: underline 3px wavy rgba(247, 140, 164, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\" data-underline-color=\"#f78ca4\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px rgba(247, 140, 164, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\">트를 해보자 테스트를 해보자 테스트&nbsp;</span></span></p>",
+      "text": "<p style=\"text-align: left;\">테스<span><span data-underline-styled=\"true\" data-underline-style=\"text-decoration: underline 3px rgba(247, 140, 164, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\" data-underline-color=\"#f78ca4\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px rgba(247, 140, 164, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\">트를 해보</span><span data-underline-styled=\"true\" data-underline-style=\"wavy\" data-underline-color=\"#94a3b8\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px wavy rgba(148, 163, 184, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\">자 테스트를 해</span><span data-underline-styled=\"true\" data-underline-style=\"text-decoration: underline 3px rgba(247, 140, 164, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\" data-underline-color=\"#f78ca4\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px rgba(247, 140, 164, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\">보자 </span><span data-underline-styled=\"true\" data-underline-style=\"dashed\" data-underline-color=\"#94a3b8\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px dashed rgba(148, 163, 184, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\">테스트&nbsp;</span></span></p>",
       "priority": 1,
       "link": null,
       "content": "<p></p>",
       "mode": "scroll",
-      "createdAt": "2025-09-13T05:46:40.690Z"
+      "createdAt": "2025-09-13T06:00:10.541Z"
     },
     {
       "id": "1757741492119",
@@ -54,14 +54,14 @@
   "i18n": {
     "ko": [
       {
-        "id": "1757742400690",
+        "id": "1757743210541",
         "type": "user-tip",
-        "text": "<p style=\"text-align: left;\">테스<span><span data-underline-styled=\"true\" data-underline-style=\"text-decoration: underline 3px wavy rgba(247, 140, 164, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\" data-underline-color=\"#f78ca4\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px rgba(247, 140, 164, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\">트를 해보자 테스트를 해보자 테스트&nbsp;</span></span></p>",
+        "text": "<p style=\"text-align: left;\">테스<span><span data-underline-styled=\"true\" data-underline-style=\"text-decoration: underline 3px rgba(247, 140, 164, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\" data-underline-color=\"#f78ca4\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px rgba(247, 140, 164, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\">트를 해보</span><span data-underline-styled=\"true\" data-underline-style=\"wavy\" data-underline-color=\"#94a3b8\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px wavy rgba(148, 163, 184, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\">자 테스트를 해</span><span data-underline-styled=\"true\" data-underline-style=\"text-decoration: underline 3px rgba(247, 140, 164, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\" data-underline-color=\"#f78ca4\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px rgba(247, 140, 164, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\">보자 </span><span data-underline-styled=\"true\" data-underline-style=\"dashed\" data-underline-color=\"#94a3b8\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px dashed rgba(148, 163, 184, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\">테스트&nbsp;</span></span></p>",
         "priority": 1,
         "link": null,
         "content": "<p></p>",
         "mode": "scroll",
-        "createdAt": "2025-09-13T05:46:40.690Z"
+        "createdAt": "2025-09-13T06:00:10.541Z"
       },
       {
         "id": "1757741492119",
@@ -164,7 +164,7 @@
     "speed": 20,
     "displayMode": "scroll"
   },
-  "lastUpdated": "2025-09-13T06:00:08.265Z",
+  "lastUpdated": "2025-09-13T06:00:13.258Z",
   "version": "1.1.0",
   "description": "BOMS 앱 전광판 메시지 데이터"
 }
