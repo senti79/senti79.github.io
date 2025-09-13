@@ -21,12 +21,14 @@
       "createdAt": "2025-09-13T02:38:14.456Z"
     },
     {
-      "id": "2",
+      "id": "1757738528207",
       "type": "dev-behind",
-      "text": "🔧 개발비하인드: 전광판은 GitHub Pages로 실시간 업데이트됩니다",
+      "text": "<p style=\"text-align: left;\">🔧 개발비하인드: 전광판은 GitHub Pages로 실시간 업데이트됩니다</p>",
       "priority": 2,
       "link": "https://senti79.github.io/dev-behind/ticker-system.html",
-      "createdAt": "2025-01-27T11:00:00Z"
+      "content": "<p></p>",
+      "mode": "scroll",
+      "createdAt": "2025-09-13T04:42:08.207Z"
     },
     {
       "id": "4",
@@ -76,12 +78,14 @@
         "createdAt": "2025-09-13T02:38:14.456Z"
       },
       {
-        "id": "2",
+        "id": "1757738528207",
         "type": "dev-behind",
-        "text": "🔧 개발비하인드: 전광판은 GitHub Pages로 실시간 업데이트됩니다",
+        "text": "<p style=\"text-align: left;\">🔧 개발비하인드: 전광판은 GitHub Pages로 실시간 업데이트됩니다</p>",
         "priority": 2,
         "link": "https://senti79.github.io/dev-behind/ticker-system.html",
-        "createdAt": "2025-01-27T11:00:00Z"
+        "content": "<p></p>",
+        "mode": "scroll",
+        "createdAt": "2025-09-13T04:42:08.207Z"
       },
       {
         "id": "4",
@@ -168,7 +172,7 @@
     "speed": 20,
     "displayMode": "scroll"
   },
-  "lastUpdated": "2025-09-13T02:38:03.335Z",
+  "lastUpdated": "2025-09-13T04:42:15.645Z",
   "version": "1.1.0",
   "description": "BOMS 앱 전광판 메시지 데이터"
 }
