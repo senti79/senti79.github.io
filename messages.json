@@ -21,24 +21,24 @@
       "createdAt": "2025-09-13T05:31:32.119Z"
     },
     {
-      "id": "1757741449217",
+      "id": "1757741702534",
       "type": "promotion",
-      "text": "<p style=\"text-align: left;\"></p>",
+      "text": "<p style=\"text-align: left;\">왜 안 나오는 거지?</p>",
       "priority": 1,
       "link": null,
       "content": "<p></p>",
       "mode": "pulse",
-      "createdAt": "2025-09-13T05:30:49.217Z"
+      "createdAt": "2025-09-13T05:35:02.534Z"
     },
     {
-      "id": "1757741492855",
+      "id": "1757741714904",
       "type": "user-tip",
-      "text": "<p style=\"text-align: left;\"></p>",
+      "text": "<p style=\"text-align: left;\">나와라 슝슝&nbsp;</p>",
       "priority": 1,
       "link": null,
       "content": "<p></p>",
       "mode": "scroll",
-      "createdAt": "2025-09-13T05:31:32.855Z"
+      "createdAt": "2025-09-13T05:35:14.904Z"
     },
     {
       "id": "1757741448072",
@@ -74,24 +74,24 @@
         "createdAt": "2025-09-13T05:31:32.119Z"
       },
       {
-        "id": "1757741449217",
+        "id": "1757741702534",
         "type": "promotion",
-        "text": "<p style=\"text-align: left;\"></p>",
+        "text": "<p style=\"text-align: left;\">왜 안 나오는 거지?</p>",
         "priority": 1,
         "link": null,
         "content": "<p></p>",
         "mode": "pulse",
-        "createdAt": "2025-09-13T05:30:49.217Z"
+        "createdAt": "2025-09-13T05:35:02.534Z"
       },
       {
-        "id": "1757741492855",
+        "id": "1757741714904",
         "type": "user-tip",
-        "text": "<p style=\"text-align: left;\"></p>",
+        "text": "<p style=\"text-align: left;\">나와라 슝슝&nbsp;</p>",
         "priority": 1,
         "link": null,
         "content": "<p></p>",
         "mode": "scroll",
-        "createdAt": "2025-09-13T05:31:32.855Z"
+        "createdAt": "2025-09-13T05:35:14.904Z"
       },
       {
         "id": "1757741448072",
@@ -164,7 +164,7 @@
     "speed": 20,
     "displayMode": "scroll"
   },
-  "lastUpdated": "2025-09-13T05:31:37.864Z",
+  "lastUpdated": "2025-09-13T05:35:23.732Z",
   "version": "1.1.0",
   "description": "BOMS 앱 전광판 메시지 데이터"
 }
