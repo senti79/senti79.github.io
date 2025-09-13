@@ -41,14 +41,116 @@
       "createdAt": "2025-09-13T05:35:14.904Z"
     },
     {
-      "id": "1757741448072",
+      "id": "1757756999403",
       "type": "promotion",
-      "text": "<p style=\"text-align: left;\"><span><strong><span data-underline-styled=\"true\" data-underline-style=\"wavy\" data-underline-color=\"#a370f0\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px wavy rgba(163, 112, 240, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\">이건 정말 테스트&nbsp;</span></strong></span></p>",
+      "text": "<p style=\"text-align: left;\"><span><strong><span data-underline-styled=\"true\" data-underline-style=\"wavy\" data-underline-color=\"#f78ca4\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px wavy rgba(247, 140, 164, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\">이건 정말 테스트&nbsp; &nbsp; &nbsp; </span><span data-strike-styled=\"true\" data-strike-style=\"wavy\" data-strike-color=\"#94a3b8\" data-strike-thickness=\"3px\" style=\"text-decoration: line-through 3px wavy rgba(148, 163, 184, 0.4);\">&nbsp; &nbsp;</span><span style=\"font-size: 16px;\"><span data-strike-styled=\"true\" data-strike-style=\"wavy\" data-strike-color=\"#94a3b8\" data-strike-thickness=\"3px\" style=\"text-decoration: line-through 3px wavy rgba(148, 163, 184, 0.4);\">되는지 보자&nbsp;</span></span></strong></span></p><p style=\"text-align: left;\"></p>",
+      "textJson": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "textAlign": "left"
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  },
+                  {
+                    "type": "bold"
+                  },
+                  {
+                    "type": "underlineStyled",
+                    "attrs": {
+                      "style": "wavy",
+                      "thickness": "3px",
+                      "color": "#f78ca4"
+                    }
+                  }
+                ],
+                "text": "이건 정말 테스트      "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  },
+                  {
+                    "type": "bold"
+                  },
+                  {
+                    "type": "strikeStyled",
+                    "attrs": {
+                      "style": "wavy",
+                      "thickness": "3px",
+                      "color": "#94a3b8"
+                    }
+                  }
+                ],
+                "text": "   "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  },
+                  {
+                    "type": "bold"
+                  },
+                  {
+                    "type": "fontSize",
+                    "attrs": {
+                      "fontSize": "16px"
+                    }
+                  },
+                  {
+                    "type": "strikeStyled",
+                    "attrs": {
+                      "style": "wavy",
+                      "thickness": "3px",
+                      "color": "#94a3b8"
+                    }
+                  }
+                ],
+                "text": "되는지 보자 "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {
+              "textAlign": "left"
+            }
+          }
+        ]
+      },
       "priority": 4,
-      "link": "https://senti79.github.io/promotions/monthly-challenge.html",
+      "link": null,
       "content": "<p></p>",
+      "contentJson": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph"
+          }
+        ]
+      },
       "mode": "pulse",
-      "createdAt": "2025-09-13T05:30:48.072Z"
+      "createdAt": "2025-09-13T09:49:59.403Z"
     }
   ],
   "i18n": {
@@ -94,14 +196,116 @@
         "createdAt": "2025-09-13T05:35:14.904Z"
       },
       {
-        "id": "1757741448072",
+        "id": "1757756999403",
         "type": "promotion",
-        "text": "<p style=\"text-align: left;\"><span><strong><span data-underline-styled=\"true\" data-underline-style=\"wavy\" data-underline-color=\"#a370f0\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px wavy rgba(163, 112, 240, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\">이건 정말 테스트&nbsp;</span></strong></span></p>",
+        "text": "<p style=\"text-align: left;\"><span><strong><span data-underline-styled=\"true\" data-underline-style=\"wavy\" data-underline-color=\"#f78ca4\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px wavy rgba(247, 140, 164, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\">이건 정말 테스트&nbsp; &nbsp; &nbsp; </span><span data-strike-styled=\"true\" data-strike-style=\"wavy\" data-strike-color=\"#94a3b8\" data-strike-thickness=\"3px\" style=\"text-decoration: line-through 3px wavy rgba(148, 163, 184, 0.4);\">&nbsp; &nbsp;</span><span style=\"font-size: 16px;\"><span data-strike-styled=\"true\" data-strike-style=\"wavy\" data-strike-color=\"#94a3b8\" data-strike-thickness=\"3px\" style=\"text-decoration: line-through 3px wavy rgba(148, 163, 184, 0.4);\">되는지 보자&nbsp;</span></span></strong></span></p><p style=\"text-align: left;\"></p>",
+        "textJson": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "color": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    },
+                    {
+                      "type": "underlineStyled",
+                      "attrs": {
+                        "style": "wavy",
+                        "thickness": "3px",
+                        "color": "#f78ca4"
+                      }
+                    }
+                  ],
+                  "text": "이건 정말 테스트      "
+                },
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "color": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    },
+                    {
+                      "type": "strikeStyled",
+                      "attrs": {
+                        "style": "wavy",
+                        "thickness": "3px",
+                        "color": "#94a3b8"
+                      }
+                    }
+                  ],
+                  "text": "   "
+                },
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "color": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    },
+                    {
+                      "type": "fontSize",
+                      "attrs": {
+                        "fontSize": "16px"
+                      }
+                    },
+                    {
+                      "type": "strikeStyled",
+                      "attrs": {
+                        "style": "wavy",
+                        "thickness": "3px",
+                        "color": "#94a3b8"
+                      }
+                    }
+                  ],
+                  "text": "되는지 보자 "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              }
+            }
+          ]
+        },
         "priority": 4,
-        "link": "https://senti79.github.io/promotions/monthly-challenge.html",
+        "link": null,
         "content": "<p></p>",
+        "contentJson": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph"
+            }
+          ]
+        },
         "mode": "pulse",
-        "createdAt": "2025-09-13T05:30:48.072Z"
+        "createdAt": "2025-09-13T09:49:59.403Z"
       }
     ],
     "ja": [],
@@ -162,9 +366,10 @@
   ],
   "settings": {
     "speed": 20,
-    "displayMode": "scroll"
+    "displayMode": "pulse",
+    "exposureSec": 20
   },
-  "lastUpdated": "2025-09-13T06:00:13.258Z",
+  "lastUpdated": "2025-09-13T09:50:08.015Z",
   "version": "1.1.0",
   "description": "BOMS 앱 전광판 메시지 데이터"
 }
