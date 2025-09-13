@@ -1,14 +1,14 @@
 {
   "messages": [
     {
-      "id": "1757741470909",
+      "id": "1757742400690",
       "type": "user-tip",
-      "text": "<p style=\"text-align: left;\">테스<span data-underline-styled=\"true\" data-underline-style=\"wavy\" data-underline-color=\"#f78ca4\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px wavy rgba(247, 140, 164, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\">트를 해보자 테스트를 해보자 테스트&nbsp;</span></p>",
+      "text": "<p style=\"text-align: left;\">테스<span><span data-underline-styled=\"true\" data-underline-style=\"text-decoration: underline 3px wavy rgba(247, 140, 164, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\" data-underline-color=\"#f78ca4\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px rgba(247, 140, 164, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\">트를 해보자 테스트를 해보자 테스트&nbsp;</span></span></p>",
       "priority": 1,
       "link": null,
       "content": "<p></p>",
-      "mode": "pulse",
-      "createdAt": "2025-09-13T05:31:10.909Z"
+      "mode": "scroll",
+      "createdAt": "2025-09-13T05:46:40.690Z"
     },
     {
       "id": "1757741492119",
@@ -21,14 +21,14 @@
       "createdAt": "2025-09-13T05:31:32.119Z"
     },
     {
-      "id": "1757741702534",
+      "id": "1757742408805",
       "type": "promotion",
       "text": "<p style=\"text-align: left;\">왜 안 나오는 거지?</p>",
       "priority": 1,
       "link": null,
       "content": "<p></p>",
-      "mode": "pulse",
-      "createdAt": "2025-09-13T05:35:02.534Z"
+      "mode": "scroll",
+      "createdAt": "2025-09-13T05:46:48.805Z"
     },
     {
       "id": "1757741714904",
@@ -54,14 +54,14 @@
   "i18n": {
     "ko": [
       {
-        "id": "1757741470909",
+        "id": "1757742400690",
         "type": "user-tip",
-        "text": "<p style=\"text-align: left;\">테스<span data-underline-styled=\"true\" data-underline-style=\"wavy\" data-underline-color=\"#f78ca4\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px wavy rgba(247, 140, 164, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\">트를 해보자 테스트를 해보자 테스트&nbsp;</span></p>",
+        "text": "<p style=\"text-align: left;\">테스<span><span data-underline-styled=\"true\" data-underline-style=\"text-decoration: underline 3px wavy rgba(247, 140, 164, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\" data-underline-color=\"#f78ca4\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px rgba(247, 140, 164, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\">트를 해보자 테스트를 해보자 테스트&nbsp;</span></span></p>",
         "priority": 1,
         "link": null,
         "content": "<p></p>",
-        "mode": "pulse",
-        "createdAt": "2025-09-13T05:31:10.909Z"
+        "mode": "scroll",
+        "createdAt": "2025-09-13T05:46:40.690Z"
       },
       {
         "id": "1757741492119",
@@ -74,14 +74,14 @@
         "createdAt": "2025-09-13T05:31:32.119Z"
       },
       {
-        "id": "1757741702534",
+        "id": "1757742408805",
         "type": "promotion",
         "text": "<p style=\"text-align: left;\">왜 안 나오는 거지?</p>",
         "priority": 1,
         "link": null,
         "content": "<p></p>",
-        "mode": "pulse",
-        "createdAt": "2025-09-13T05:35:02.534Z"
+        "mode": "scroll",
+        "createdAt": "2025-09-13T05:46:48.805Z"
       },
       {
         "id": "1757741714904",
@@ -164,7 +164,7 @@
     "speed": 20,
     "displayMode": "scroll"
   },
-  "lastUpdated": "2025-09-13T05:35:23.732Z",
+  "lastUpdated": "2025-09-13T05:46:52.626Z",
   "version": "1.1.0",
   "description": "BOMS 앱 전광판 메시지 데이터"
 }
