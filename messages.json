@@ -1,6 +1,16 @@
 {
   "messages": [
     {
+      "id": "1757741117225",
+      "type": "user-tip",
+      "text": "<p style=\"text-align: left;\">테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;</p>",
+      "priority": 1,
+      "link": null,
+      "content": "<p></p>",
+      "mode": "scroll",
+      "createdAt": "2025-09-13T05:25:17.225Z"
+    },
+    {
       "id": "1757740510714",
       "type": "user-tip",
       "text": "<p style=\"text-align: left;\">아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;아직도 너의 소리가 들려&nbsp;</p>",
@@ -57,6 +67,16 @@
   ],
   "i18n": {
     "ko": [
+      {
+        "id": "1757741117225",
+        "type": "user-tip",
+        "text": "<p style=\"text-align: left;\">테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;테스트를 해보자 해보자 테스트&nbsp;</p>",
+        "priority": 1,
+        "link": null,
+        "content": "<p></p>",
+        "mode": "scroll",
+        "createdAt": "2025-09-13T05:25:17.225Z"
+      },
       {
         "id": "1757740510714",
         "type": "user-tip",
@@ -172,7 +192,7 @@
     "speed": 20,
     "displayMode": "scroll"
   },
-  "lastUpdated": "2025-09-13T05:15:15.973Z",
+  "lastUpdated": "2025-09-13T05:25:25.420Z",
   "version": "1.1.0",
   "description": "BOMS 앱 전광판 메시지 데이터"
 }
