@@ -11,7 +11,7 @@
     {
       "id": "2",
       "type": "dev-behind",
-      "text": "🔧 개발비하인드: 전광판은 Firebase Storage로 실시간 업데이트됩니다",
+      "text": "🔧 개발비하인드: 전광판은 GitHub Pages와 수동 배포 스크립트로 갱신돼요",
       "priority": 2,
       "link": "https://www.bombomnote.com/dev-behind/ticker-system.html",
       "createdAt": "2025-01-27T11:00:00Z"
@@ -41,7 +41,194 @@
       "createdAt": "2025-01-27T14:00:00Z"
     }
   ],
-  "lastUpdated": "2025-01-27T14:00:00Z",
-  "version": "1.0.0",
-  "description": "BOMS 앱 전광판 메시지 데이터"
+  "categories": [
+    { "id": "user-tip", "icon": "💡", "names": { "ko": "사용자 팁", "ja": "ユーザーヒント", "en": "User Tip", "es": "Consejo" } },
+    { "id": "dev-behind", "icon": "🔧", "names": { "ko": "개발비하인드", "ja": "開発裏話", "en": "Dev Behind", "es": "Detrás" } },
+    { "id": "challenge", "icon": "🏆", "names": { "ko": "도전과제", "ja": "チャレンジ", "en": "Challenge", "es": "Desafío" } },
+    { "id": "fun-fact", "icon": "🎨", "names": { "ko": "재미있는 사실", "ja": "豆知識", "en": "Fun Fact", "es": "Dato" } },
+    { "id": "promotion", "icon": "🎁", "names": { "ko": "프로모션", "ja": "プロモ", "en": "Promotion", "es": "Promoción" } }
+  ],
+  "i18n": {
+    "ko": [
+      {
+        "id": "1",
+        "type": "user-tip",
+        "text": "💡 팁: Ctrl + B로 볼드, Ctrl + U로 밑줄을 빠르게 적용할 수 있어요",
+        "priority": 1,
+        "link": "https://www.bombomnote.com/features/keyboard-shortcuts.html",
+        "createdAt": "2025-01-27T10:00:00Z"
+      },
+      {
+        "id": "2",
+        "type": "dev-behind",
+        "text": "🔧 개발비하인드: 전광판은 GitHub Pages와 수동 배포 스크립트로 갱신돼요",
+        "priority": 2,
+        "link": "https://www.bombomnote.com/dev-behind/ticker-system.html",
+        "createdAt": "2025-01-27T11:00:00Z"
+      },
+      {
+        "id": "3",
+        "type": "challenge",
+        "text": "🏆 도전과제: 7일 연속 메모 작성하면 특별 기능이 잠금해제됩니다!",
+        "priority": 3,
+        "link": "https://www.bombomnote.com/challenges/7-day-streak.html",
+        "createdAt": "2025-01-27T12:00:00Z"
+      },
+      {
+        "id": "4",
+        "type": "fun-fact",
+        "text": "🎨 재미있는 사실: 이 에디터는 TipTap 3.x로 만들어졌어요",
+        "priority": 2,
+        "link": "https://www.bombomnote.com/fun-facts/tiptap-editor.html",
+        "createdAt": "2025-01-27T13:00:00Z"
+      },
+      {
+        "id": "5",
+        "type": "promotion",
+        "text": "🎁 한 달 연속 작성 시 모든 프리미엄 기능이 30일간 무료!",
+        "priority": 4,
+        "link": "https://www.bombomnote.com/promotions/monthly-challenge.html",
+        "createdAt": "2025-01-27T14:00:00Z"
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "user-tip",
+        "text": "💡 Tip: Use Ctrl + B for bold and Ctrl + U for underline in seconds.",
+        "priority": 1,
+        "link": "https://www.bombomnote.com/features/keyboard-shortcuts.html",
+        "createdAt": "2025-01-27T10:00:00Z"
+      },
+      {
+        "id": "2",
+        "type": "dev-behind",
+        "text": "🔧 Dev behind: The ticker now deploys via GitHub Pages and a publish script.",
+        "priority": 2,
+        "link": "https://www.bombomnote.com/dev-behind/ticker-system.html",
+        "createdAt": "2025-01-27T11:00:00Z"
+      },
+      {
+        "id": "3",
+        "type": "challenge",
+        "text": "🏆 Challenge: Write notes seven days in a row to unlock a special perk!",
+        "priority": 3,
+        "link": "https://www.bombomnote.com/challenges/7-day-streak.html",
+        "createdAt": "2025-01-27T12:00:00Z"
+      },
+      {
+        "id": "4",
+        "type": "fun-fact",
+        "text": "🎨 Fun fact: Our editor is powered by TipTap 3.x.",
+        "priority": 2,
+        "link": "https://www.bombomnote.com/fun-facts/tiptap-editor.html",
+        "createdAt": "2025-01-27T13:00:00Z"
+      },
+      {
+        "id": "5",
+        "type": "promotion",
+        "text": "🎁 Stay active for a month and enjoy every premium feature for free!",
+        "priority": 4,
+        "link": "https://www.bombomnote.com/promotions/monthly-challenge.html",
+        "createdAt": "2025-01-27T14:00:00Z"
+      }
+    ],
+    "ja": [
+      {
+        "id": "1",
+        "type": "user-tip",
+        "text": "💡 ヒント: Ctrl + Bで太字、Ctrl + Uで下線を素早く適用できます。",
+        "priority": 1,
+        "link": "https://www.bombomnote.com/features/keyboard-shortcuts.html",
+        "createdAt": "2025-01-27T10:00:00Z"
+      },
+      {
+        "id": "2",
+        "type": "dev-behind",
+        "text": "🔧 開発裏話: ティッカーはGitHub Pagesと手動スクリプトで更新されています。",
+        "priority": 2,
+        "link": "https://www.bombomnote.com/dev-behind/ticker-system.html",
+        "createdAt": "2025-01-27T11:00:00Z"
+      },
+      {
+        "id": "3",
+        "type": "challenge",
+        "text": "🏆 チャレンジ: 7日連続でメモを書くと特別機能が解放されます!",
+        "priority": 3,
+        "link": "https://www.bombomnote.com/challenges/7-day-streak.html",
+        "createdAt": "2025-01-27T12:00:00Z"
+      },
+      {
+        "id": "4",
+        "type": "fun-fact",
+        "text": "🎨 豆知識: このエディターはTipTap 3.xで作られています。",
+        "priority": 2,
+        "link": "https://www.bombomnote.com/fun-facts/tiptap-editor.html",
+        "createdAt": "2025-01-27T13:00:00Z"
+      },
+      {
+        "id": "5",
+        "type": "promotion",
+        "text": "🎁 1か月連続で利用すると、すべてのプレミアム機能が無料になります!",
+        "priority": 4,
+        "link": "https://www.bombomnote.com/promotions/monthly-challenge.html",
+        "createdAt": "2025-01-27T14:00:00Z"
+      }
+    ],
+    "es": [
+      {
+        "id": "1",
+        "type": "user-tip",
+        "text": "💡 Consejo: Usa Ctrl + B para negrita y Ctrl + U para subrayado al instante.",
+        "priority": 1,
+        "link": "https://www.bombomnote.com/features/keyboard-shortcuts.html",
+        "createdAt": "2025-01-27T10:00:00Z"
+      },
+      {
+        "id": "2",
+        "type": "dev-behind",
+        "text": "🔧 Detrás del desarrollo: el ticker se actualiza con GitHub Pages y un script manual.",
+        "priority": 2,
+        "link": "https://www.bombomnote.com/dev-behind/ticker-system.html",
+        "createdAt": "2025-01-27T11:00:00Z"
+      },
+      {
+        "id": "3",
+        "type": "challenge",
+        "text": "🏆 Desafío: Escribe notas durante siete días seguidos y desbloquea un beneficio especial.",
+        "priority": 3,
+        "link": "https://www.bombomnote.com/challenges/7-day-streak.html",
+        "createdAt": "2025-01-27T12:00:00Z"
+      },
+      {
+        "id": "4",
+        "type": "fun-fact",
+        "text": "🎨 Dato curioso: Este editor funciona con TipTap 3.x.",
+        "priority": 2,
+        "link": "https://www.bombomnote.com/fun-facts/tiptap-editor.html",
+        "createdAt": "2025-01-27T13:00:00Z"
+      },
+      {
+        "id": "5",
+        "type": "promotion",
+        "text": "🎁 Si escribes durante un mes seguido, disfrutará de todas las funciones premium gratis!",
+        "priority": 4,
+        "link": "https://www.bombomnote.com/promotions/monthly-challenge.html",
+        "createdAt": "2025-01-27T14:00:00Z"
+      }
+    ]
+  },
+  "settings": {
+    "speed": 20,
+    "displayMode": "scroll",
+    "exposureSec": 20
+  },
+  "lastUpdated": "2025-09-24T07:45:00Z",
+  "version": "1.1.0",
+  "description": "BOMS 앱 전광판 메시지 데이터",
+  "meta": {
+    "updatedAt": "2025-09-24T07:45:00Z",
+    "updatedBy": "manual-import",
+    "description": "BOMS 앱 전광판 메시지 데이터(i18n 포함)"
+  }
 }
