@@ -2,55 +2,8 @@
   "messages": [
     {
       "type": "user-tip",
-      "text": "<p style=\"text-align: left;\">팁: Ctrl + B로 볼드,<span data-underline-styled=\"true\" data-underline-style=\"wavy\" data-underline-color=\"#4a9eff\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px wavy rgba(74, 158, 255, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\"> Ctrl + U로 밑줄을 빠르게 적용</span>할 수 있어요</p>",
-      "textJson": {
-        "type": "doc",
-        "content": [
-          {
-            "type": "paragraph",
-            "attrs": {
-              "textAlign": "left"
-            },
-            "content": [
-              {
-                "type": "text",
-                "text": "팁: Ctrl + B로 볼드,"
-              },
-              {
-                "type": "text",
-                "marks": [
-                  {
-                    "type": "underlineStyled",
-                    "attrs": {
-                      "style": "wavy",
-                      "thickness": "3px",
-                      "color": "#4a9eff"
-                    }
-                  }
-                ],
-                "text": " Ctrl + U로 밑줄을 빠르게 적용"
-              },
-              {
-                "type": "text",
-                "text": "할 수 있어요"
-              }
-            ]
-          }
-        ]
-      },
-      "content": "<p></p>",
-      "contentJson": {
-        "type": "doc",
-        "content": [
-          {
-            "type": "paragraph"
-          }
-        ]
-      },
-      "link": "",
-      "priority": 1,
-      "createdAt": 1758588211823,
-      "mode": "scroll"
+      "text": "팁: Ctrl + B로 볼드, Ctrl + U로 밑줄을 빠르게 적용할 수 있어요",
+      "priority": 1
     },
     {
       "type": "dev-behind",
@@ -67,55 +20,8 @@
     "ko": [
       {
         "type": "user-tip",
-        "text": "<p style=\"text-align: left;\">팁: Ctrl + B로 볼드,<span data-underline-styled=\"true\" data-underline-style=\"wavy\" data-underline-color=\"#4a9eff\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px wavy rgba(74, 158, 255, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\"> Ctrl + U로 밑줄을 빠르게 적용</span>할 수 있어요</p>",
-        "textJson": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "attrs": {
-                "textAlign": "left"
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "팁: Ctrl + B로 볼드,"
-                },
-                {
-                  "type": "text",
-                  "marks": [
-                    {
-                      "type": "underlineStyled",
-                      "attrs": {
-                        "style": "wavy",
-                        "thickness": "3px",
-                        "color": "#4a9eff"
-                      }
-                    }
-                  ],
-                  "text": " Ctrl + U로 밑줄을 빠르게 적용"
-                },
-                {
-                  "type": "text",
-                  "text": "할 수 있어요"
-                }
-              ]
-            }
-          ]
-        },
-        "content": "<p></p>",
-        "contentJson": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph"
-            }
-          ]
-        },
-        "link": "",
-        "priority": 1,
-        "createdAt": 1758588211823,
-        "mode": "scroll"
+        "text": "팁: Ctrl + B로 볼드, Ctrl + U로 밑줄을 빠르게 적용할 수 있어요",
+        "priority": 1
       },
       {
         "type": "dev-behind",
@@ -189,7 +95,7 @@
     "displayMode": "scroll",
     "exposureSec": 20
   },
-  "lastUpdated": "2025-09-23T00:43:20.083Z",
+  "lastUpdated": "2025-09-23T00:47:04.789Z",
   "version": "1.1.0",
   "description": "BOMS 앱 전광판 메시지 데이터"
 }
